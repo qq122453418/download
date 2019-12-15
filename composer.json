@@ -1,0 +1,7 @@
+{
+	"name":"xiaofuxing/tool",
+	"description":"封装了一些常用的功能",
+	"require":{
+		"php":"^7.0"
+	}
+}
