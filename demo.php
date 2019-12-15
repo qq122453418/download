@@ -1,5 +1,5 @@
 <?php
 namespace Tool;
-include_once 'Down.php';
+include_once './tool/Down.php';
 $down = new Down();
-$down -> text('hfasdfk', 'test.txt');
+$down -> text('这是下载的内容', 'test.txt');
