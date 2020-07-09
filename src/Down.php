@@ -2,7 +2,7 @@
 /**
  * 下载
  */
-namespace tool;
+namespace ToolPackage;
 class Down
 {
 	/**

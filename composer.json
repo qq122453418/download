@@ -1,13 +1,13 @@
 {
-	"name":"xiaofuxing/tool",
+	"name":"tool_package/down",
 	"description":"封装了一些常用的功能",
-	"license":"MIT",
+	"license":"",
 	"require":{
-		"php":"^7.0"
+		"php":">=5.3"
 	},
 	"autoload":{
 		"psr-4":{
-			"tool\\":"tool/"
+			"ToolPackage\\":"src/"
 		}
 	}
 
