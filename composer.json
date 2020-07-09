@@ -1,7 +1,7 @@
 {
 	"name":"tool_package/down",
 	"description":"封装了一些常用的功能",
-	"license":"",
+	"license":"BSD-3-Clause",
 	"require":{
 		"php":">=5.3"
 	},
