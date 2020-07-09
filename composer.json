@@ -2,6 +2,12 @@
 	"name":"tool_package/down",
 	"description":"封装了一些常用的功能",
 	"license":"BSD-3-Clause",
+	"authors": [
+		{
+			"name": "xiaofuxing",
+			"email": "122453418@qq.com"
+		}
+	],
 	"require":{
 		"php":">=5.3"
 	},
